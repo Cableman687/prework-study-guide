@@ -30,7 +30,7 @@ N/A
 
 It will act as a source for all notes on the topics of HTML, CSS, Javascript and Git.
 
-If we are to open the devtools console, we can see Javascript running on the HTML framework, and styled using the CSS language.
+If we open the devtools console, we can see Javascript running on the HTML framework, and styled using the CSS language.
 
 It will list the topics we learned from the prework and choose a topic for us to study first. (if we cannot choose one ourselves).
 
